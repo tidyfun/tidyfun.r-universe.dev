@@ -1,0 +1,10 @@
+[
+  {
+    "package": "tf",
+    "url": "https://github.com/tidyfun/tf"
+  },
+  {
+    "package": "tidyfun",
+    "url": "https://github.com/tidyfun/tidyfun"
+  }
+]
